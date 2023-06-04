@@ -1,4 +1,4 @@
-# BogaziciGameJam 
+# BogaziciGameJam - Fire Rush
 
 Bu oyun Boğaziçi Game Jam için 5 kişi ile 2 günde geliştirilmiştir.
 (04.06.2023)
